@@ -1,0 +1,79 @@
+.titulo{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 35px;
+    text-align: center;
+    padding: 25px;    
+}
+
+.titulo_receita{
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.subtitulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center; 
+}
+
+.imagem_fundo{
+    background-image: url("./images/background.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lista__um{
+    padding: 25px;
+}
+
+.lista__dois{
+    padding: 25px;
+}
+
+img{
+    display: block;
+    margin:auto;
+}
+
+.descricao{
+    color:blueviolet;
+}
+
+.ingredientes{
+    color:blueviolet;
+}
+
+.modo{
+    color: blueviolet;
+}
+
+.informacoes__adicionais{
+    width: 300px;
+    height: 400px;
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin:20px;
+}
+
+.dev{
+    text-align: center;
+}
+
+.github{
+    margin: 930px;
+}
